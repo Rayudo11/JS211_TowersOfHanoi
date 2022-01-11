@@ -12,15 +12,15 @@
 }
 
 [data-row].red {
-  background-color: #f6c5c5;
+  background-color: darkgray;
 }
 
 [data-row].yellow {
-  background-color: #ffffa9;
+  background-color: darkgray;
 }
 
 [data-row].green {
-  background-color: #baf6ba;
+  background-color: darkgray;
 }
 
 [data-row].blue {
